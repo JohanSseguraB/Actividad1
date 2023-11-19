@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65593045c197725e7d96bfc5"
+  },
+  "EquipoA": 1,
+  "EquipoB": 2,
+  "Dia": 1
+},
+{
+  "_id": {
+    "$oid": "65593045c197725e7d96bfc6"
+  },
+  "EquipoA": 2,
+  "EquipoB": 3,
+  "Dia": 2
+},
+{
+  "_id": {
+    "$oid": "65593045c197725e7d96bfc7"
+  },
+  "EquipoA": 3,
+  "EquipoB": 1,
+  "Dia": 3
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "655930f6c197725e7d96bfc8"
+  },
+  "Dia": 1,
+  "ResultadosAvsB": "2-4",
+  "Puntos": 3
+},
+{
+  "_id": {
+    "$oid": "655930f6c197725e7d96bfc9"
+  },
+  "Dia": 2,
+  "ResultadosAvsB": "3-5",
+  "Puntos": 3
+},
+{
+  "_id": {
+    "$oid": "655930f6c197725e7d96bfca"
+  },
+  "Dia": 3,
+  "ResultadosAvsB": "4-1",
+  "Puntos": 3
+}]

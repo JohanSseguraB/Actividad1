@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "655931d5c197725e7d96bfcb"
+  },
+  "Posición": "1",
+  "Equipo": "3",
+  "Puntos": "6"
+},
+{
+  "_id": {
+    "$oid": "655931d5c197725e7d96bfcc"
+  },
+  "Posición": "2",
+  "Equipo": "2",
+  "Puntos": "3"
+},
+{
+  "_id": {
+    "$oid": "655931d5c197725e7d96bfcd"
+  },
+  "Posición": "3",
+  "Equipo": "1",
+  "Puntos": "0"
+}]

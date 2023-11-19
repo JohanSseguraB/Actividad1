@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65592729f35138808e944de0"
+  },
+  "nombre": "sebastian",
+  "Edad": "25",
+  "equipo": "1",
+  "teléfono": 320225222
+},
+{
+  "_id": {
+    "$oid": "6559286ff35138808e944de1"
+  },
+  "nombre": "Johan",
+  "Edad": "27",
+  "equipo": "1",
+  "teléfono": 345235235
+},
+{
+  "_id": {
+    "$oid": "6559291bf35138808e944de2"
+  },
+  "nombre": "Eduardo",
+  "Edad": "22",
+  "equipo": "2",
+  "teléfono": 352323323
+},
+{
+  "_id": {
+    "$oid": "65592ae9c197725e7d96bfb8"
+  },
+  "nombre": "Camilo",
+  "Edad": "25",
+  "equipo": "2",
+  "teléfono": 222584545
+},
+{
+  "_id": {
+    "$oid": "65592ae9c197725e7d96bfb9"
+  },
+  "nombre": "David",
+  "Edad": "24",
+  "equipo": "3",
+  "teléfono": 321654845
+},
+{
+  "_id": {
+    "$oid": "65592b41c197725e7d96bfba"
+  },
+  "nombre": "Rigoberto",
+  "Edad": "26",
+  "equipo": "3",
+  "teléfono": 987452324
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65592f98c197725e7d96bfc1"
+  },
+  "nombre": "Samuel",
+  "Edad": 39,
+  "tipo": "Principal"
+},
+{
+  "_id": {
+    "$oid": "65592f98c197725e7d96bfc2"
+  },
+  "nombre": "Fabio",
+  "Edad": 31,
+  "tipo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "65592f98c197725e7d96bfc3"
+  },
+  "nombre": "Victor",
+  "Edad": 65,
+  "tipo": "Principal"
+},
+{
+  "_id": {
+    "$oid": "65592f98c197725e7d96bfc4"
+  },
+  "nombre": "Francisco",
+  "Edad": 35,
+  "tipo": "Asistente"
+}]
